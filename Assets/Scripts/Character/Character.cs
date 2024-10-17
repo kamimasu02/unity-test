@@ -29,12 +29,9 @@ public class Character : MonoBehaviour
     bool blockUpdate = false;
 
     float sceneWidth;
+
     public float spriteHalfWidth;
 
-    void Awake()
-    {
-
-    }
     void Start()
     {
         animator.enabled = false;

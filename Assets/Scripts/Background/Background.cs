@@ -12,16 +12,4 @@ public class Background : MonoBehaviour
     public float sceneWidth = 13.0f;
     [SerializeField]
     public float sceneHeight = 10.0f;
-
-
-    void Start()
-    {
-        
-    }
-
-
-    void Update()
-    {
-        
-    }
 }

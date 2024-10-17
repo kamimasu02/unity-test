@@ -6,14 +6,4 @@ public class BackgroundManager : MonoBehaviour
 {
     [SerializeField]
     GameObject background;
-    void Start()
-    {
-        
-    }
-
-
-    void Update()
-    {
-        
-    }
 }

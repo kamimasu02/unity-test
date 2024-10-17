@@ -10,12 +10,9 @@ public class CharacterManager : MonoBehaviour
     Character selectedCharacter;
     [SerializeField]
     Character[] characters;
+
     float sceneWidth;
     float sceneHalfWidth;
-
-    void Awake() {
-
-    }
 
     void Start()
     {
